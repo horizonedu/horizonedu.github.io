@@ -21,7 +21,7 @@ h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^  <h2 cl
 a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^  <a href="index.html" class="btn">返回 Back<\/a>$/;"	function	line:19
 section	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^    <section class="main-content">$/;"	function	line:22
 div	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^      <div id="home">$/;"	function	line:24
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^  <h1>Contacts<\/h1>$/;"	function	line:25
+h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^  <h1>联系我们 Contacts<\/h1>$/;"	function	line:25
 ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^  <ul class="posts">$/;"	function	line:26
 li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^    <li>$/;"	function	line:27
 a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/contact.html	/^      <a href="mailto:horizon.edu@hotmail.com">horizon.edu@hotmail.com<\/a>$/;"	function	line:29
