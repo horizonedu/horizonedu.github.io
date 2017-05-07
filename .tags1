@@ -4,42 +4,123 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^<html lang="en-us">$/;"	function	line:2
-head	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <head>$/;"	function	line:4
-meta	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <meta charset="UTF-8">$/;"	function	line:5
-title	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <title>Horizon Education<\/title>$/;"	function	line:6
-meta	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1">$/;"	function	line:7
-meta	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <meta name="theme-color" content="#157878">$/;"	function	line:8
-link	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <link rel="stylesheet" href="\/css\/normalize.css">$/;"	function	line:9
-link	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <link href='https:\/\/fonts.googleapis.com\/css?family=Open+Sans:400,700' rel='stylesheet' type='text\/css'>$/;"	function	line:10
-link	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <link rel="stylesheet" href="\/css\/cayman.css">$/;"	function	line:11
-body	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <body>$/;"	function	line:14
-section	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^    <section class="page-header">$/;"	function	line:15
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <h1 class="project-name">Horizon Education<\/h1>$/;"	function	line:16
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <h2 class="project-tagline">为你量身定制的文书<\/h2>$/;"	function	line:17
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <h2 class="project-tagline">The essay customized for you<\/h2>$/;"	function	line:18
-a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <a href="index.html" class="btn">返回 Back<\/a>$/;"	function	line:19
-section	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^    <section class="main-content">$/;"	function	line:21
-div	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <div id="home">$/;"	function	line:22
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h1>Aaron Zhao<\/h1>$/;"	function	line:23
-img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <img class="img" src="aaron_zhao.png" alt="Aaron Zhao" style="width:200px;height:200px;">$/;"	function	line:24
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h2>背景介绍 Background Info<\/h2>$/;"	function	line:25
-ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <ul class="posts">$/;"	function	line:26
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:27
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:30
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h2>专精领域 Area of Expertise<\/h2>$/;"	function	line:34
-ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <ul class="posts">$/;"	function	line:35
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:36
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:39
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h1>Tom Dada<\/h1>$/;"	function	line:43
-img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <img class="img" src="tom_dada.jpg" alt="Tom Dada" style="width:200px;height:200px;">$/;"	function	line:44
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h2>背景介绍 Background Info<\/h2>$/;"	function	line:45
-ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <ul class="posts">$/;"	function	line:46
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:47
-h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h2>专精领域 Area of Expertise<\/h2>$/;"	function	line:51
-ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <ul class="posts">$/;"	function	line:52
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:53
-li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <li><span>12 Feb 2016<\/span> &raquo; <a href="\/main\/2016\/02\/12\/sample-content.html">Welcome to Jekyll!<\/a><\/li>$/;"	function	line:58
-footer	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <footer class="site-footer">$/;"	function	line:62
-span	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <span class="site-footer-owner"><a href="http:\/\/localhost:4000">Horizon Education<\/a> is maintained by <a href="http:\/\/yourhomepage.com">Author name<\/a>.<\/span>$/;"	function	line:63
-span	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <span class="site-footer-credits">This page was generated by <a href="https:\/\/pages.github.com">GitHub Pages<\/a>.<\/span>$/;"	function	line:64
+.highlight table td	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight table td { padding: 5px; }$/;"	function	line:1
+.highlight table pre	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight table pre { margin: 0; }$/;"	function	line:3
+.highlight .cm	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .cm { color: #999988; font-style: italic; }$/;"	function	line:5
+.highlight .cp	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .cp { color: #999999; font-weight: bold; }$/;"	function	line:7
+.highlight .c1	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .c1 { color: #999988; font-style: italic; }$/;"	function	line:9
+.highlight .cs	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .cs { color: #999999; font-weight: bold; font-style: italic; }$/;"	function	line:11
+.highlight .c, .highlight .cd	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .c, .highlight .cd { color: #999988; font-style: italic; }$/;"	function	line:13
+.highlight .err	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .err { color: #a61717; background-color: #e3d2d2; }$/;"	function	line:15
+.highlight .gd	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gd { color: #000000; background-color: #ffdddd; }$/;"	function	line:17
+.highlight .ge	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .ge { color: #000000; font-style: italic; }$/;"	function	line:19
+.highlight .gr	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gr { color: #aa0000; }$/;"	function	line:21
+.highlight .gh	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gh { color: #999999; }$/;"	function	line:23
+.highlight .gi	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gi { color: #000000; background-color: #ddffdd; }$/;"	function	line:25
+.highlight .go	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .go { color: #888888; }$/;"	function	line:27
+.highlight .gp	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gp { color: #555555; }$/;"	function	line:29
+.highlight .gs	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gs { font-weight: bold; }$/;"	function	line:31
+.highlight .gu	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gu { color: #aaaaaa; }$/;"	function	line:33
+.highlight .gt	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .gt { color: #aa0000; }$/;"	function	line:35
+.highlight .kc	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .kc { color: #000000; font-weight: bold; }$/;"	function	line:37
+.highlight .kd	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .kd { color: #000000; font-weight: bold; }$/;"	function	line:39
+.highlight .kn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .kn { color: #000000; font-weight: bold; }$/;"	function	line:41
+.highlight .kp	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .kp { color: #000000; font-weight: bold; }$/;"	function	line:43
+.highlight .kr	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .kr { color: #000000; font-weight: bold; }$/;"	function	line:45
+.highlight .kt	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .kt { color: #445588; font-weight: bold; }$/;"	function	line:47
+.highlight .k, .highlight .kv	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .k, .highlight .kv { color: #000000; font-weight: bold; }$/;"	function	line:49
+.highlight .mf	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .mf { color: #009999; }$/;"	function	line:51
+.highlight .mh	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .mh { color: #009999; }$/;"	function	line:53
+.highlight .il	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .il { color: #009999; }$/;"	function	line:55
+.highlight .mi	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .mi { color: #009999; }$/;"	function	line:57
+.highlight .mo	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .mo { color: #009999; }$/;"	function	line:59
+.highlight .m, .highlight .mb, .highlight .mx	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .m, .highlight .mb, .highlight .mx { color: #009999; }$/;"	function	line:61
+.highlight .sb	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .sb { color: #d14; }$/;"	function	line:63
+.highlight .sc	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .sc { color: #d14; }$/;"	function	line:65
+.highlight .sd	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .sd { color: #d14; }$/;"	function	line:67
+.highlight .s2	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .s2 { color: #d14; }$/;"	function	line:69
+.highlight .se	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .se { color: #d14; }$/;"	function	line:71
+.highlight .sh	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .sh { color: #d14; }$/;"	function	line:73
+.highlight .si	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .si { color: #d14; }$/;"	function	line:75
+.highlight .sx	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .sx { color: #d14; }$/;"	function	line:77
+.highlight .sr	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .sr { color: #009926; }$/;"	function	line:79
+.highlight .s1	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .s1 { color: #d14; }$/;"	function	line:81
+.highlight .ss	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .ss { color: #990073; }$/;"	function	line:83
+.highlight .s	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .s { color: #d14; }$/;"	function	line:85
+.highlight .na	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .na { color: #008080; }$/;"	function	line:87
+.highlight .bp	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .bp { color: #999999; }$/;"	function	line:89
+.highlight .nb	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nb { color: #0086B3; }$/;"	function	line:91
+.highlight .nc	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nc { color: #445588; font-weight: bold; }$/;"	function	line:93
+.highlight .no	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .no { color: #008080; }$/;"	function	line:95
+.highlight .nd	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nd { color: #3c5d5d; font-weight: bold; }$/;"	function	line:97
+.highlight .ni	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .ni { color: #800080; }$/;"	function	line:99
+.highlight .ne	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .ne { color: #990000; font-weight: bold; }$/;"	function	line:101
+.highlight .nf	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nf { color: #990000; font-weight: bold; }$/;"	function	line:103
+.highlight .nl	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nl { color: #990000; font-weight: bold; }$/;"	function	line:105
+.highlight .nn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nn { color: #555555; }$/;"	function	line:107
+.highlight .nt	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nt { color: #000080; }$/;"	function	line:109
+.highlight .vc	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .vc { color: #008080; }$/;"	function	line:111
+.highlight .vg	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .vg { color: #008080; }$/;"	function	line:113
+.highlight .vi	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .vi { color: #008080; }$/;"	function	line:115
+.highlight .nv	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .nv { color: #008080; }$/;"	function	line:117
+.highlight .ow	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .ow { color: #000000; font-weight: bold; }$/;"	function	line:119
+.highlight .o	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .o { color: #000000; font-weight: bold; }$/;"	function	line:121
+.highlight .w	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight .w { color: #bbbbbb; }$/;"	function	line:123
+.highlight	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.highlight { background-color: #f8f8f8; }$/;"	function	line:125
+*	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^* { box-sizing: border-box; }$/;"	function	line:127
+body	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }$/;"	function	line:129
+a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^a { color: #1e6bb8; text-decoration: none; }$/;"	function	line:131
+a:hover	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^a:hover { text-decoration: underline; }$/;"	function	line:132
+.btn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }$/;"	function	line:134
+.btn:hover	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3); }$/;"	function	line:135
+.btn + .btn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.btn + .btn { margin-left: 1rem; }$/;"	function	line:136
+@media screen and (min-width: 64em) { .btn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 64em) { .btn { padding: 0.75rem 1rem; } }$/;"	function	line:137
+@media screen and (min-width: 42em) and (max-width: 64em) { .btn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 42em) and (max-width: 64em) { .btn { padding: 0.6rem 0.9rem; font-size: 0.9rem; } }$/;"	function	line:138
+@media screen and (max-width: 42em) { .btn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }$/;"	function	line:139
+.btn + .btn	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^  .btn + .btn { margin-top: 1rem; margin-left: 0; } }$/;"	function	line:140
+.page-header	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); }$/;"	function	line:142
+@media screen and (min-width: 64em) { .page-header	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }$/;"	function	line:143
+@media screen and (min-width: 42em) and (max-width: 64em) { .page-header	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }$/;"	function	line:144
+@media screen and (max-width: 42em) { .page-header	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }$/;"	function	line:145
+.project-name	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.project-name { margin-top: 0; margin-bottom: 0.1rem; }$/;"	function	line:147
+@media screen and (min-width: 64em) { .project-name	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 64em) { .project-name { font-size: 3.25rem; } }$/;"	function	line:148
+@media screen and (min-width: 42em) and (max-width: 64em) { .project-name	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 42em) and (max-width: 64em) { .project-name { font-size: 2.25rem; } }$/;"	function	line:149
+@media screen and (max-width: 42em) { .project-name	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (max-width: 42em) { .project-name { font-size: 1.75rem; } }$/;"	function	line:150
+.project-tagline	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.project-tagline { margin-bottom: 2rem; font-weight: normal; opacity: 0.7; }$/;"	function	line:152
+@media screen and (min-width: 64em) { .project-tagline	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 64em) { .project-tagline { font-size: 1.25rem; } }$/;"	function	line:153
+@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.15rem; } }$/;"	function	line:154
+@media screen and (max-width: 42em) { .project-tagline	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (max-width: 42em) { .project-tagline { font-size: 1rem; } }$/;"	function	line:155
+.main-content	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content { word-wrap: break-word; }$/;"	function	line:157
+.main-content :first-child	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content :first-child { margin-top: 0; }$/;"	function	line:158
+@media screen and (min-width: 64em) { .main-content	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }$/;"	function	line:159
+@media screen and (min-width: 42em) and (max-width: 64em) { .main-content	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }$/;"	function	line:160
+@media screen and (max-width: 42em) { .main-content	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }$/;"	function	line:161
+.main-content img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content img { max-width: 100%; min-width: 100%; border-radius: 50%; overflow: hidden;}$/;"	function	line:162
+.img-circle	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.img-circle {$/;"	function	line:163
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #159957; }$/;"	function	line:166
+.main-content p	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content p { margin-bottom: 1em; }$/;"	function	line:167
+.main-content code	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content code { padding: 2px 4px; font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: 0.9rem; color: #567482; background-color: #f3f6fa; border-radius: 0.3rem; }$/;"	function	line:168
+.main-content pre	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #dce6f0; border-radius: 0.3rem; }$/;"	function	line:169
+.main-content pre > code	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content pre > code { padding: 0; margin: 0; font-size: 0.9rem; color: #567482; word-break: normal; white-space: pre; background: transparent; border: 0; }$/;"	function	line:170
+.main-content .highlight	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content .highlight { margin-bottom: 1rem; }$/;"	function	line:171
+.main-content .highlight pre	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content .highlight pre { margin-bottom: 0; word-break: normal; }$/;"	function	line:172
+.main-content .highlight pre, .main-content pre	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content .highlight pre, .main-content pre { padding: 0.8rem; overflow: auto; font-size: 0.9rem; line-height: 1.45; border-radius: 0.3rem; -webkit-overflow-scrolling: touch; }$/;"	function	line:173
+.main-content pre code, .main-content pre tt	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content pre code, .main-content pre tt { display: inline; max-width: initial; padding: 0; margin: 0; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0; }$/;"	function	line:174
+.main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after { content: normal; }$/;"	function	line:175
+.main-content ul, .main-content ol	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content ul, .main-content ol { margin-top: 0; }$/;"	function	line:176
+.main-content blockquote	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content blockquote { padding: 0 1rem; margin-left: 0; color: #819198; border-left: 0.3rem solid #dce6f0; }$/;"	function	line:177
+.main-content blockquote > :first-child	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content blockquote > :first-child { margin-top: 0; }$/;"	function	line:178
+.main-content blockquote > :last-child	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content blockquote > :last-child { margin-bottom: 0; }$/;"	function	line:179
+.main-content table	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content table { display: block; width: 100%; overflow: auto; word-break: normal; word-break: keep-all; -webkit-overflow-scrolling: touch; }$/;"	function	line:180
+.main-content table th	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content table th { font-weight: bold; }$/;"	function	line:181
+.main-content table th, .main-content table td	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content table th, .main-content table td { padding: 0.5rem 1rem; border: 1px solid #e9ebec; }$/;"	function	line:182
+.main-content dl	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content dl { padding: 0; }$/;"	function	line:183
+.main-content dl dt	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content dl dt { padding: 0; margin-top: 1rem; font-size: 1rem; font-weight: bold; }$/;"	function	line:184
+.main-content dl dd	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content dl dd { padding: 0; margin-bottom: 1rem; }$/;"	function	line:185
+.main-content hr	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }$/;"	function	line:186
+.site-footer	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: solid 1px #eff0f1; }$/;"	function	line:188
+@media screen and (min-width: 64em) { .site-footer	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }$/;"	function	line:189
+@media screen and (min-width: 42em) and (max-width: 64em) { .site-footer	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }$/;"	function	line:190
+@media screen and (max-width: 42em) { .site-footer	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^@media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }$/;"	function	line:191
+.site-footer-owner	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.site-footer-owner { display: block; font-weight: bold; }$/;"	function	line:193
+.site-footer-credits	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/css/cayman.css	/^.site-footer-credits { color: #819198; }$/;"	function	line:195
