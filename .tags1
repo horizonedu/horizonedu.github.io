@@ -22,7 +22,7 @@ a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^  <a href
 section	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^    <section class="main-content">$/;"	function	line:21
 div	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <div id="home">$/;"	function	line:22
 h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h1>Aaron Zhao<\/h1>$/;"	function	line:23
-img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <img src="aaron_zhao.png" alt="Aaron Zhao" style="width:200px;height:200px;">$/;"	function	line:24
+img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <img class="img-circle" src="aaron_zhao.png" alt="Aaron Zhao" style="width:200px;height:200px;">$/;"	function	line:24
 h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h2>背景介绍 Background Info<\/h2>$/;"	function	line:25
 ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <ul class="posts">$/;"	function	line:26
 li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:27
@@ -32,7 +32,7 @@ ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <u
 li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:36
 li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:39
 h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h1>Tom Dada<\/h1>$/;"	function	line:43
-img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <img src="tom_dada.jpg" alt="Tom Dada" style="width:200px;height:200px;">$/;"	function	line:44
+img	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <img class="img-circle" src="tom_dada.jpg" alt="Tom Dada" style="width:200px;height:200px;">$/;"	function	line:44
 h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <h2>背景介绍 Background Info<\/h2>$/;"	function	line:45
 ul	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^      <ul class="posts">$/;"	function	line:46
 li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/mentor.html	/^        <li>$/;"	function	line:47
