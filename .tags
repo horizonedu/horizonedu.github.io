@@ -329,7 +329,7 @@ a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^  <a href=
 a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^  <a href="contact.html" class="btn">联系我们 Contacts<\/a>$/;"	function	line:21
 a	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^  <a href="joinus.html" class="btn">加入我们 Join Us<\/a>$/;"	function	line:22
 section	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^    <section class="main-content">$/;"	function	line:25
-div	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^      <div id="home">$/;"	function	line:27
+div	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^    <div id="home">$/;"	function	line:27
 h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^    <h1>我们是谁？Who are we?<\/h1>$/;"	function	line:28
 h	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^      <h3>$/;"	function	line:30
 li	/Users/aaron/Projects/horizon_edu/horizonedu.github.io/index.html	/^        <li>$/;"	function	line:34
